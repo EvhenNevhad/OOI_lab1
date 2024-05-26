@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// ТСПП лаб 5
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
